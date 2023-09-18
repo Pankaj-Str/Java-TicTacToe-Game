@@ -174,7 +174,7 @@ public class TicTacToe_Game extends javax.swing.JFrame {
 
         jLabelMSG.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabelMSG.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelMSG.setText("Play");
+        jLabelMSG.setText("p4n Game Play");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
